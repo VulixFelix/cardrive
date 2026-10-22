@@ -4,7 +4,7 @@ public class PlaneMenu : MonoBehaviour
 {
     public void Play()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(4);
     }
 
     public void Quit()

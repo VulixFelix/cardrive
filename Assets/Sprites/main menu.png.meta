@@ -119,7 +119,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 81
-        y: 261
+        y: 402
         width: 508
         height: 202
       alignment: 0
@@ -140,8 +140,8 @@ TextureImporter:
       name: main menu_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 24
+        x: 42
+        y: 161
         width: 289
         height: 148
       alignment: 0
@@ -162,12 +162,12 @@ TextureImporter:
       name: main menu_0
       rect:
         serializedVersion: 2
-        x: 330
-        y: 24
+        x: 331
+        y: 161
         width: 289
         height: 148
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -176,6 +176,28 @@ TextureImporter:
       bones: []
       spriteID: 411126edacafab34897fcba53b9a1709
       internalID: 1947568805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main menu_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 34
+        width: 280
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f4e2c94d70b6f4d9dca63dc566b9ab
+      internalID: -520133899
       vertices: []
       indices: 
       edges: []
@@ -199,6 +221,7 @@ TextureImporter:
       Play: 7437685092641353733
       main menu_0: 1947568805
       main menu_1: 602953907
+      main menu_2: -520133899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
